@@ -1,0 +1,15 @@
+{
+    "name": "winter/source_ecommerce",
+    "autoload": {
+        "psr-4": {
+            "Winter\\SourceEcommerce\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alireza",
+            "email": "Alirezamac7s@gmail.com"
+        }
+    ],
+    "require": {}
+}
