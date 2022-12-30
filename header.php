@@ -23,7 +23,7 @@
 <!-- start #header -->
 <header id="header">
     <div class="strip d-flex justify-content-between px-4 py-1 bg-light">
-        <p class="font-rale font-size-12 text-black-50 m-0">alireza mac7s +989336024962</p>
+        <p class="font-rale font-size-12 text-black-50 m-0">alireza mac7s &nbsp; &nbsp; + 9 8 9 3 3 6 0 2 4 9 6 2</p>
         <div class="font-rale font-size-14">
             <a href="#" class="px-3 border-right border-left text-dark">Login</a>
             <a href="#" class="px-3 border-right text-dark">Whishlist (0)</a>
